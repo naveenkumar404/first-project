@@ -1,4 +1,4 @@
 # first-project
 Study Nerd
 <br>
-Author - Naveen Kumar
+Author - Naveen Kumar (developer)
